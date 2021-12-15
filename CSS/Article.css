@@ -94,3 +94,11 @@ main {
     align-items: center;
     color: white;
 }
+
+.grid-container .t7::before {
+    content: "Skylander duping";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
