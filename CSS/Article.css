@@ -90,7 +90,7 @@ main {
 .grid-container .t5::before {
     content: "SSL";
     display: flex;
-    justify-content: cente r;
+    justify-content: center;
     align-items: center;
     color: white;
 }
